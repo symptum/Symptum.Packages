@@ -1,0 +1,17 @@
+{
+  "$feature": "nutrition",
+  "DataSet": {
+    "Groups": [
+      {
+        "FilePath": "\\Data\\Fruits.csv",
+        "Title": "Fruits"
+      }
+    ],
+    "Title": "Data"
+  },
+  "Id": "Symptum.Nutrition",
+  "Title": "Nutrition",
+  "Dependencies": [
+    "Symptum.Subjects.Anatomy"
+  ]
+}
